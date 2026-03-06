@@ -1,0 +1,15 @@
+{
+  "name": "emdia - Controle Financeiro",
+  "short_name": "emdia",
+  "description": "Seu controle financeiro pessoal completo e offline",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#4f46e5",
+  "theme_color": "#4f46e5",
+  "orientation": "portrait-primary",
+  "categories": ["finance", "productivity", "business"],
+  
+  "icons": [
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAgAAAAICAYAAACwHLeiAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAALEgAACxIB0t1+/AAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlL29yZ5vuPBoAAAI/klEQVR4nO3SsU7DQBSA4YuoAgSBMEwQJggDBMEwQJggDBMEwQJggDBMEwQJggDBMEwQJggDBMEwQJggDBMEwQJggDBMEwQJggDBMEwQJggDBMEwQJggDBMEwQJggDBMEwQJggDBMEwQJggDBMEwQJggDBMEwQJggDBMEwQJggDBMEwQJggDBMEwQJggDBMEwQJggDBMEwQJggDBMEwQJggDBMEwQJggDBMEwQJggDBMEwQJggDBMEwQJggDBMEwQJggDBMEwQJggDBMEwQJggDBMEwQJggDBMEwQJggDBMEwQJggDBMEwQJggDBMEwQJggDBMEwQJggDBMEwQJggDBMEwQJggDBMEwQJggDBMEwQJggDBMEwQ
